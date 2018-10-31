@@ -7,6 +7,9 @@
 3. membuat perulangan demgan menggunakan for loop "for (n;n<banyakbarang;n++)"
 4. memasukan bilangan ke dalam variable input (juumlah barang) dengan nilai tertentu 
 5. memasukan bilangan ke dalam variable input (harga satuan) dengan nilai tertentu 
-6. 
-6. mencari nilai terbesar dari sejumlah variable menggunakan "if (x>max) max=x"
-7. mencetak nilai terbesar dari sejumlah variable yang telah di masukan ke dalam variable input tersebut ke layar
+6. mencetak harga barang (jumlah barang "a" dikali harga satuan "x")
+7. mencetak total pembayaran (sebelum mendapatkan diskon)
+8. membuat potongan harga dengan menggunakan if statment (total>1000000 diskon 10%, total>501000 diskon 5%, selain itu tidak dapat diskon)
+9. memcetak total pembayaran (dengan diskon tertentu)
+
+berikut flowchart nya :
