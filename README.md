@@ -13,4 +13,4 @@
 9. memcetak total pembayaran (dengan diskon tertentu)
 
 berikut flowchart nya :
-![latihan1](https://user-images.githubusercontent.com/44117281/47784040-09134e00-dd37-11e8-8857-16d4d08a60b1.png)
+
