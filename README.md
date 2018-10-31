@@ -13,4 +13,3 @@
 9. memcetak total pembayaran (dengan diskon tertentu)
 
 berikut flowchart nya :
-https://github.com/AbdulMalik040414/praktikum4/issues/1#issue-375905365
