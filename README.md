@@ -22,7 +22,8 @@ berikut code lengkapnya :
 
 using namespace std;
 
-int main(){
+int main()
+{
 	int n=0;
 	int total=0;
 	int a,x;
