@@ -54,3 +54,4 @@ int main()
 }
 
 berikut hasil screnshotnya :
+![latihan1](https://user-images.githubusercontent.com/44117281/47783743-1da31680-dd36-11e8-8bc0-98e4b3e9c67e.png)
